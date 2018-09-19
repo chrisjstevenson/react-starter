@@ -1,0 +1,16 @@
+.LoginForm {
+    padding: 40px;
+}
+
+.LoginForm-input {
+    height: 50px;
+    width: 400px;
+    margin-bottom: 4px;
+    padding-left: 10px;
+}
+
+.LoginForm-submit {
+    height: 50px;
+    width: 412px;
+    margin-top: 10px;
+}
